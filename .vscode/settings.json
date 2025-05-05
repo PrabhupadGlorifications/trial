@@ -1,0 +1,8 @@
+{
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "livePreview.debugOnExternalPreview": false,
+    "livePreview.httpHeaders": {
+        
+        "Accept-Ranges": "bytes"
+    }
+}
